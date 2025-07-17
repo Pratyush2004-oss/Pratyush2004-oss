@@ -12,6 +12,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Pratyush2004-oss&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush2004-oss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pratyush2004-oss&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
