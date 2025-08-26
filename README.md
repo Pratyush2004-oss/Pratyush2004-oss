@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on App Development<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning Full-Stack Web Development<br>💬 Ask me about my projects that I have contributed<br>⚡Created multiple projects
 
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishrapratyush521@gmail.com) 
 
